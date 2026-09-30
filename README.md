@@ -9,7 +9,7 @@
 Конец: завершение работы алгоритма.
 
 Блок- схема:
-<img width="122" height="782" alt="Диаграмма без названия" https://github.com/Avdeev2105/-.-3/blob/master/lr3.png
+<img width="122" height="782" alt="Диаграмма без названия" scr=https://github.com/Avdeev2105/-.-3/blob/master/lr3.png
 
 
 Код:#define _CRT_SECURE_NO_WARNINGS
