@@ -9,7 +9,8 @@
 Конец: завершение работы алгоритма.
 
 Блок- схема:
-"C:\Users\Arseniy\Desktop\Учеба\инфа\Диаграмма без названия.drawio"
+<img width="122" height="782" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/96370e90-36d7-4c05-8fdd-6b5811c4d1a7" />
+
 
 Код:#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
